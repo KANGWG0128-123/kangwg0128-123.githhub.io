@@ -32,11 +32,3 @@ I am currently a Ph.D. Candidate in Medicine at **Seoul National University** (t
 
 My research bridges **computer science and stem cell biology** — leveraging Transformer-based generative AI to design novel ligands for **G protein–coupled receptors (GPCRs)** with applications in cardiovascular regeneration and stem cell–based therapeutics. My work has been recognized as one of the **Top 5 Medical R&D projects in Korea (KHIDI)** and selected for the **Korea National R&D Excellence Top 100 (MSIT)** in 2025.
 
-I serve as a **Reviewer for Springer Nature Q1 journals** in both medicine and food science, and am a **Professional Member of the American Heart Association (AHA)**.
-
-#### Research Interests
-
-- GPCR biology and ligand discovery  
-- Cardiovascular regeneration and molecular signaling  
-- Generative AI models for medicine  
-- Translational applications of stem cell and AI-based therapeutics
