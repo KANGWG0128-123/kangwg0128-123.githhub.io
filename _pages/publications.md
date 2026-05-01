@@ -16,6 +16,12 @@ Springer Nature
 - Association for Chemoreception Sciences - Member
 
 
+Research Interests
+- GPCR biology and ligand discovery
+- Cardiovascular regeneration and molecular signaling
+- Generative AI models for medicine and beyond
+- Translational applications of stem cell and AI-based therapeutics
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
