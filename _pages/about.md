@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Singapore · Seoul</p>
-    <p>mj@noahs-farm.xyz</p>
 
 selected_papers: false
 social: true
@@ -22,8 +19,8 @@ latest_posts:
   enabled: false
 ---
 
-Researcher and entrepreneur at the intersection of **generative AI and biology**. Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz) (Singapore), building *N-Palette* — proprietary generative AI for flavor molecule design.
+I am a researcher and entrepreneur working at the intersection of **generative AI and biology**. As Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz) in Singapore, I lead the development of *N-Palette*, a proprietary generative AI system that designs novel flavor molecules at the chemical level.
 
-Ph.D. in Medicine (2027) at **Seoul National University**, developing Transformer-based models for **GPCR ligand discovery** in cardiovascular regeneration. Previously M.S. in Medicine, *summa cum laude* (valedictorian, SNU); B.S. in Biomedical Sciences (CHA University).
+I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University**, where I develop Transformer-based generative models for **GPCR ligand discovery** in cardiovascular regeneration. I previously completed my M.S. in Medicine at SNU, graduating *summa cum laude* as valedictorian, and hold a B.S. in Biomedical Sciences from CHA University.
 
-Selected as **Top 5 Medical R&D in Korea** (KHIDI, 2025) and **National R&D Excellence Top 100** (MSIT, 2025). Reviewer for Springer Nature Q1 journals · Professional Member, American Heart Association.
+My research has been selected as one of the **Top 5 Medical R&D Projects in Korea** (KHIDI, 2025) and the **National R&D Excellence Top 100** (MSIT, 2025). I serve as a peer reviewer for Springer Nature Q1 journals and am a Professional Member of the American Heart Association.
