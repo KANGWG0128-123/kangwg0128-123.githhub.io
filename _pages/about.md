@@ -26,9 +26,9 @@ latest_posts:
   limit: 3
 ---
 
-Hello, I am **Minjun Kang**, Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz) — a Singapore-based deep-tech startup building proprietary AI ("**N-Palette**") that chemically recreates the world's most beloved flavors and invents entirely new ones at the molecular level.
+I'm **Minjun Kang** — building AI that designs molecules, from medicine to taste.
 
-I am currently a Ph.D. Candidate in Medicine at **Seoul National University** (to be conferred in 2027), where I previously completed my **M.S. in Medicine with summa cum laude honors as valedictorian**. I hold a B.S. in Biomedical Sciences from **CHA University**.
+I'm Co-Founder & CTO of [**Noah's Farm**](https://noahs-farm.xyz), a Singapore deep-tech startup creating **N-Palette**, a generative AI for flavor molecules. In parallel, I'm completing my Ph.D. in Medicine (2027) at **Seoul National University**, where my Transformer-based models design novel **GPCR ligands** for cardiovascular regeneration.
 
-My research bridges **computer science and stem cell biology** — leveraging Transformer-based generative AI to design novel ligands for **G protein–coupled receptors (GPCRs)** with applications in cardiovascular regeneration and stem cell–based therapeutics. My work has been recognized as one of the **Top 5 Medical R&D projects in Korea (KHIDI)** and selected for the **Korea National R&D Excellence Top 100 (MSIT)** in 2025.
+Previously valedictorian of SNU's M.S. in Medicine. My research was selected as **Top 5 Medical R&D in Korea (KHIDI, 2025)** and **National R&D Excellence Top 100 (MSIT, 2025)**.
 
