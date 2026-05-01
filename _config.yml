@@ -581,10 +581,6 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json
-
 jsonresume:
   - basics
   - work
