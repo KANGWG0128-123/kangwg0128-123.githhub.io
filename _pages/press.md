@@ -17,14 +17,15 @@ nav_order: 5
 
 **Korea National R&D Top 100**  
 *Elucidating the Pathogenic Mechanisms of Dilated Cardiomyopathy: Establishing a Foundational Platform Technology for the Development of Therapeutics for Refractory Heart Failure.*  
-Ministry of Science and ICT (MSIT), Korea. PI: Prof. Hyo-Soo Kim.  
+Ministry of Science and ICT (MSIT), Korea. PI: Prof. Hyo-Soo Kim, Hyun-Jai Cho.  
 [Read more →](https://www.msit.go.kr/bbs/view.do?sCode=user&mPid=208&mId=307&bbsSeqNo=94&nttSeqNo=3186685)
 
 ---
 
 **Top 5 Medical R&D in 2025**  
-*Recognized as one of Korea's Top 5 Medical R&D among 30 Healthcare Research projects.*  
-Ministry of Health and Welfare, Korea Health Industry Development Institute (KHIDI). PI: Prof. Hyo-Soo Kim.  
+*Recognized as one of Korea's Top 5 Medical R&D among 30 Healthcare Research projects.*
+*Elucidating the Pathogenic Mechanisms of Dilated Cardiomyopathy: Establishing a Foundational Platform Technology for the Development of Therapeutics for Refractory Heart Failure.*  
+Ministry of Health and Welfare, Korea Health Industry Development Institute (KHIDI). PI: Prof. Hyo-Soo Kim, Hyun-Jai Cho.  
 [Read more →](https://www.medipana.com/news/articleView.html?idxno=344470)
 
 ---
