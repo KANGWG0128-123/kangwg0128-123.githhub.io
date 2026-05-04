@@ -18,12 +18,12 @@ nav_order: 2
 
 ## Academic Activities
 
-#### Peer Reviewer (Springer Nature Q1 Journals)
+**Peer Reviewer (Springer Nature Q1 Journals)**
 
 - *Medicine*: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)
 - *Food & Nutrition*: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism
 
-#### Professional Memberships
+**Professional Memberships**
 
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
