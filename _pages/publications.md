@@ -20,8 +20,8 @@ nav_order: 2
 
 **Peer Reviewer (Springer Nature Q1 Journals)**
 
-- *Medicine*: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics)
-- *Food & Nutrition*: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism
+- **Medicine**: Scientific Reports · European Journal of Medical Research · BMC series (Health Services Research, Endocrine Disorders, Pregnancy and Childbirth, Geriatrics).
+- **Food & Nutrition**: npj Science of Food · European Journal of Nutrition · Nutrition Journal · Nutrition & Metabolism, Discover Food.
 
 **Professional Memberships**
 
