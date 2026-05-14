@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a researcher and entrepreneur working at the intersection of **generative AI and biology**. As Co-Founder & Chief AI Scientist of [**Noah's Farm Pte. Ltd.**](https://noahs-farm.xyz) in Singapore, I lead the development of *N-Palette*, a proprietary generative AI system that designs novel flavor molecules at the chemical level.
+I am a researcher and entrepreneur working at the intersection of **generative AI and biology**. As Co-Founder & Chief AI Scientist — and founding CTO — of [**Noah's Farm Pte. Ltd.**](https://noahs-farm.xyz) in Singapore, I lead the development of *N-Palette*, a proprietary generative AI system that designs novel flavor molecules at the chemical level.
 
 I am concurrently a **Ph.D. in Medicine (2027)** at **Seoul National University**, where I develop Transformer-based generative models for **GPCR ligand discovery** in cardiovascular regeneration. I previously completed my M.S. in Medicine at SNU, graduating *summa cum laude* as valedictorian, and hold a B.S. in Biomedical Sciences from CHA University.
 
